@@ -1,6 +1,9 @@
 ### Hi there 👋
-### 🔭 I’m currently working on  https://robkot500.github.io/to_do/ and https://robkot500.github.io/electric_site/
-### 🌱 I’m currently learning redux <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+### 🔭 I’m currently working on  
+### https://robkot500.github.io/to_do/ 
+### and 
+### https://robkot500.github.io/electric_site/
+### 🌱 I’m currently learning redux <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 
 <!--
 **robkot500/robkot500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
