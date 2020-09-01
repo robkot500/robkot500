@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on https://robkot500.github.io/electric_site/
-### 🔭 I’m currently working on https://robkot500.github.io/to_do/
+### 🔭 I’m currently working on  https://robkot500.github.io/to_do/ and https://robkot500.github.io/electric_site/
 ### 🌱 I’m currently learning redux
 
 <!--
