@@ -1,12 +1,14 @@
 ### Hi there 👋
 🔭 I’m currently working on https://robkot500.github.io/electric_site/
+🔭 I’m currently working on https://robkot500.github.io/to_do/
+🌱 I’m currently learning redux https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png
 
 <!--
 **robkot500/robkot500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://robkot500.github.io/electric_site/
+- 🔭 I’m currently working on https://robkot500.github.io/to_do/
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
