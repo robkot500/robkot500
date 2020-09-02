@@ -5,6 +5,10 @@
 ### https://robkot500.github.io/electric_site/
 ### 🌱 I’m currently learning redux <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 ### 😊 I am looking for a job as a junior front-end developer
+### 📫 How to reach me +48 506 163 190
+### 💬 More about me https://robkot500.github.io/Portfolio/build/
+
+
 
 
 <!--
