@@ -7,6 +7,7 @@
 ### 😊 I am looking for a job as a junior front-end developer
 ### 📫 How to reach me +48 506 163 190
 ### 💬 More about me https://robkot500.github.io/Portfolio/build/
+### mobile to_do.png
 
 
 
